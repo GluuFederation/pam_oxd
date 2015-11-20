@@ -1,6 +1,6 @@
 # PAM oxD
 
-> This is in pre-Alpha state.
+> This is in planning stage and is a placeholder repository until development starts
 
 A Linux PAM module to provide authentication services using oxD.
 
